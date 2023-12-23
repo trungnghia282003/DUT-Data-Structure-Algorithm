@@ -1,0 +1,62 @@
+50 50
+X X O O X O X O X X X X X O O O O O O O X X O O O X O X O O O O O O X X O X X X X X X O O X O O X O 
+O X X O O O X X X X O X X X X X O X X X O O O X X O X O X O O X X O X X X O O O O O O O X O X O X O 
+X X X O O X X O O O X O O X O O O O O X X X X X X O X O X X X O X O O O X O O O X O O O X X O X O O 
+X X X X X O X O X X O O O X X X O X O X O O X O O X O O X X O O O O X O O X X O X X X X O X X O X O 
+X O O O X O X O X X X X X O X O O O X O O X X O O O X O O X O O X O O O X X X O X O O X O X O X X O 
+X O X O X X O X X O O X X X X X X X X O O X X X O O O O O O O X O X O X O O X O O O O X X X O O X O 
+O O X O X X O X O X O O O X X X X X O X O X O X O O O X X O O X O X O X O X X X X O O X O X X X O X 
+X X X X O O O O X X X X O O O X O O O O X O X O X X X O X O X X O X X X O X X X O X X O X O X O O O 
+O O X O X O X X X O O O X X X X X O O X O X X O X O O X O O O X O O X X O X O X O O O X O O O X X O 
+O O X O O O O X O X O X O X X O X X X O O X O X O O X X X O O O O O O O X O O X X X O X X O O O X O 
+X X X O X X O X O X X O O O O O O O X O X X O X X O O X O O X O X O O O O O O O X O O X X O O O X X 
+X O O X X X X O X X O X O O O O X X X X X O O X O X O O O O O O X X O X O O X O X O O X O X X O X O 
+X X O X X X O X X X X O O X O X X X X X X X O O X O O X X O X O O X O X X O O O O X X X O X O X X O 
+O O X O O X X X X O O X X X O O O X X X O O X O O O X X X X X O X X O X X O X X X X X O X X O O O X 
+O O O X X X O X X X X X X O X O X O X O X O O O X X X O X X O O O O O X O X X O X X O O O X O X O O 
+O O O X O X X X X X X O X O O X O X X O X X X O O O X O X X X O O X X X X X O X O O O O X X X O O X 
+O X O X O X O X X X X X X X X O O O O O X X X X X X O O O O X X O O X O O O O X X O O X O X O O O X 
+O O X O O X O O O X O X X O O O X O O O X X O X O X X O X O X X X O O X O O O O X O X O O X X O O O 
+X O O O X O O O X O O X O O O O X O X X O X X O O O O O O O X X X O X O X X X O X X X X X O X X X X 
+X O X O O X X O X X O X O X X X O X O X X X O X O O X O O X X X O X O X X X X O X X O O X O X O X X 
+X X X O X O X X X X X O O X O X O X O X O O O O O O O X O X O X O O X X X O O O O O O X X O O O O X 
+X O X X O O X X O O O X O O X O X O O X O X X X X O X O O X O X O O X O O X O X X X O X X O O X X O 
+X O X X O O X X O X X O X O X X X X O O O X O O X X X X X O X O O O X O O X O X X X O X O X O O O X 
+X O O O O O O O X X X O X O X O O X X X X X O O X X O O X X O X O O X O X O O O X X O O X O X O O O 
+X O X X O O O O O O O O O X X X O O O O O X X X O X X O X X X X X O O X X X X O X O X X X O O O X X 
+O O X X X X X X O O X X X X O O O X O X O O O O X X O X O X X X O O X X O O O O O X X O O O X O O X 
+O O O O X X O O X O O O O X X X X X O X O X O O O O O O X X X O X X O O X X O O O O O X O O X O O X 
+X O O X X X O O O O O O X X O X O X O X X O X O X X O O X X X O O X X O O O O O O O O X X O X X X X 
+X O X X O O X O X X X O X X X O X X O O O O X O O X X X X X X X O O X X O O O X X O X X X O O X O X 
+X X O X O X O X X O O O O X O O O O X X O X O O X O O O X O X O O X O O O O X O X O X O O X O O O X 
+O O X X X O X O O O O X O O O X O X O X O O X O X X X O O X O O X O X X O X X O O O O O O O X X X O 
+O O O X X O X X O O X O O X O O X X O X X O X X O X O X O X X O X X O O X O O X X O X X O X O O X X 
+X O X O O O O O X O X O X X O O O O O O O X X O X X O O O O O X X X O X X X X O O O O X X X X X X O 
+O X O X X O X X O O O X X X X X O X O O X O X X O O O O X O X O O X O O X X O X O O O O O X O O O O 
+X O O O X X X X O X O X O O X O O X X X X X O O X X X X O X X X O O O O O X O O X X O O X O X X X O 
+X O X X X X X X O X X X X O O X X X X O X X O O O X X O O X O O X X X O X X X X X O O O O O X O X X 
+O O X X X O O X O O X O O O O O X O X O O X X X X X X X O X X O O O O X X X X X O X X O O O X X O X 
+O X X X O X X X X X O O X X O X O X O O X X O O O O O O O X X O O O X O X O X O O X O O O O O X X X 
+X X X X X O X O O X O X X O X X O O O O O X X X X O X X X X X O O O X O X X O O O O X X O X O X X X 
+O O X O O X O O O X X O X O X O X O X O X O X O X X O X O O O X X O O O X O O X X O X O O X O O X X 
+X X O X X O O X X X X O O X X O O O O O X O O X X O O O X O X X X X X O O O O X X X O O X X X X X O 
+X X O X X O O X O X X O O X X X O X O O O O X X X X O O X O O X O O X X X X X X O O X X X O X X X O 
+O X O X X X O X O X O X X X O O X O O X X O O O X X O O O O X X O O X O O O X O O X X X X X X X O X 
+O O X X O O O O O X O O O O X X O X O X O X X O O X X O O X O X X O X X O X O O X X O O X O X X X X 
+X O X O X O O O O X O O X O X O O X O O X O X X X X X O X X O O O X X X X X O O X O X O O X O X O X 
+X O X X O O X X O O O X X O O O O O X X X O O X X X X X O O O O X O O X O O O X O O X O O O X O X O 
+X O O O O X O X O O X O O X X X X X O X O O O X X X O X X X X X O X X O O X O X X O X O X O O O O O 
+O X X O X O X O O O X X O X X X X X X O O O X X X X O O O X O O X O O O X O O O O X X X O X O X O X 
+O O O X X O X O X X X O O O O X X X X X O O X O O O X O X X O O O O O O O X O O X O O X O O X X X X 
+X X O O X X X O X O X O X X O X X X X O X X O X O X O X O O O O X O O O O O X X X X O O X O X X X X 
+10
+28 30 24 17
+17 25 1 29
+4 42 9 42
+4 13 43 8
+12 25 48 29
+49 44 34 2
+27 26 0 17
+22 36 40 29
+29 3 37 22
+34 27 46 33
